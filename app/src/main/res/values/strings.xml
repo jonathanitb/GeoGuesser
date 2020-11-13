@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">GeoGuesser</string>
+    <string name="geo">GE</string>
+    <string name="guesser">GUESSER</string>
+    <string name="hint">hint</string>
+    <string name="p1">Capital de Argentina</string>
+    <string name="p2">Capital de Bolivia</string>
+    <string name="p3">Capital de Brasil</string>
+    <string name="p4">Capital de Chile</string>
+    <string name="p5">Capital de Colombia</string>
+    <string name="p6">Capital de Ecuador</string>
+    <string name="p7">Capital de Guyana</string>
+    <string name="p8">Capital de Paraguay</string>
+    <string name="p9">Capital de Perú</string>
+    <string name="p10">Capital de Surinam</string>
+    <string name="p11">Capital de Uruguay</string>
+    <string name="p12">Capital de Venezuela</string>
+
+    <string name="c1">Buenos Aires</string>
+    <string name="c2">Sucre</string>
+    <string name="c3">Brasilia</string>
+    <string name="c4">Santiago</string>
+    <string name="c5">Bogotá</string>
+    <string name="c6">Quito</string>
+    <string name="c7">Georgetown</string>
+    <string name="c8">Asunción</string>
+    <string name="c9">Lima</string>
+    <string name="c10">Paramaribo</string>
+    <string name="c11">Montevideo</string>
+    <string name="c12">Caracas</string>
+
+    <string name="p1resposta1">La Plata </string>
+    <string name="p1resposta2">Cordoba </string>
+    <string name="p1resposta3">Santa Fe </string>
+
+    <string name="p2resposta1">La Paz</string>
+    <string name="p2resposta2">Coroico</string>
+    <string name="p2resposta3">Trinidad</string>
+
+    <string name="p3resposta1">Sao Paulo</string>
+    <string name="p3resposta2">Rio de Janeiro</string>
+    <string name="p3resposta3">Santos</string>
+
+    <string name="p4resposta1">Santiago de Compostela</string>
+    <string name="p4resposta2">Concepción</string>
+    <string name="p4resposta3">La Serena</string>
+
+    <string name="p5resposta1">Medellin</string>
+    <string name="p5resposta2">Cartagena</string>
+    <string name="p5resposta3">Buenaventura</string>
+
+    <string name="p6resposta1">Santo Domingo</string>
+    <string name="p6resposta2">Cuenca</string>
+    <string name="p6resposta3">Ecuadoria</string>
+
+    <string name="p7resposta1">Linden</string>
+    <string name="p7resposta2">Nueva Amsterdan</string>
+    <string name="p7resposta3">Skeldon</string>
+
+    <string name="p8resposta1">Caazapa</string>
+    <string name="p8resposta2">Villarica</string>
+    <string name="p8resposta3">Ciudad del Este</string>
+
+    <string name="p9resposta1">Cusco</string>
+    <string name="p9resposta2">Pisos Picados</string>
+    <string name="p9resposta3">Machupichu</string>
+
+    <string name="p10resposta1">La grieta del invocador</string>
+    <string name="p10resposta2">Albina</string>
+    <string name="p10resposta3">Distrito de paramaribo</string>
+
+    <string name="p11resposta1">Maldonado</string>
+    <string name="p11resposta2">Montefoto</string>
+    <string name="p11resposta3">Canelones</string>
+
+    <string name="p12resposta1">Valencia</string>
+    <string name="p12resposta2">Barcelona</string>
+    <string name="p12resposta3">Maracay</string>
+
+
+</resources>
